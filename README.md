@@ -13,7 +13,6 @@ Some things about me:
 - 🤔 I’m looking for help with NLU and NLG.
 - 💬 Ask me about Python and ML. I am more than happy to help anytime. :)
 - 📫 How to reach me: DM me on [LinkedIn](https://www.linkedin.com/in/haswanth-kumar-aekula/) or [Twitter](https://twitter.com/Haswanth_hassi). I will reach out as soon as possible.
-- 😄 Pronouns: Friends call me Hassi.
 - ⚡ Fun fact: GPT-4 is collecting information... Stay tuned!!
 
 
