@@ -2,8 +2,8 @@
 
 ![](https://komarev.com/ghpvc/?username=hassiahk&color=blue)
 
-Hello People, I am Haswanth Aekula.
-I am currently working as Big Data Engineer and an aspiring Data Scientist.
+- I am Haswanth Aekula.
+- I am currently working as a Big Data Engineer and an aspiring Data Scientist.
 
 Some things about me:
 
