@@ -1,16 +1,20 @@
 ### Hi there 👋
 
-<!--
-**hassiahk/hassiahk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![](https://komarev.com/ghpvc/?username=hassiahk&color=blue)
 
-Here are some ideas to get you started:
+Hello People, I am Haswanth Aekula.
+I am currently working as Big Data Engineer and an aspiring Data Scientist.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Some things about me:
+
+- 🔭 I’m currently working on Python.
+- 🌱 I’m currently learning NLP and Computer Vision.
+- 👯 I’m looking to collaborate on Deep Learning Projects. (Frameworks: PyTorch and TensorFlow)
+- 🤔 I’m looking for help with NLU and NLG.
+- 💬 Ask me about Python and ML. I am more than happy to help anytime. :)
+- 📫 How to reach me: DM me on [LinkedIn](https://www.linkedin.com/in/haswanth-kumar-aekula/) or [Twitter](https://twitter.com/Haswanth_hassi). I will reach out as soon as possible.
+- 😄 Pronouns: Friends call me Hassi.
+- ⚡ Fun fact: GPT-4 is collecting information... Stay tuned!!
+
+
+[![Haswanth's github stats](https://github-readme-stats.vercel.app/api?username=hassiahk&hide=stars,contribs)](https://github.com/anuraghazra/github-readme-stats)
