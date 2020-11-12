@@ -23,9 +23,9 @@ I am currently working as a Big Data Engineer and an aspiring Data Scientist.
 - 👯 I’m looking to collaborate on Deep Learning Projects. (Frameworks: PyTorch and TensorFlow)
 - 🤔 I’m looking for help with NLU and NLG.
 - 💬 Ask me about Python and ML. I am more than happy to help anytime. :)
-- 📫 How to reach me: DM me on [LinkedIn](https://www.linkedin.com/in/hassiahk/) or [Twitter](https://twitter.com/hassiahk). I am mostly active feel free to reach out to me.
+- 📫 How to reach me: DM me on [LinkedIn](https://www.linkedin.com/in/hassiahk/) or [Twitter](https://twitter.com/hassiahk). I am mostly active, feel free to reach out to me.
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I watch anime as rigorous as I code.
 
 
-[![Haswanth's github stats](https://github-readme-stats.vercel.app/api?username=hassiahk&hide=stars,contribs)](https://github.com/anuraghazra/github-readme-stats)
+[![Haswanth's github stats](https://github-readme-stats.vercel.app/api?username=hassiahk&hide=stars)](https://github.com/anuraghazra/github-readme-stats)
