@@ -4,7 +4,6 @@
 
 I am currently working as a Big Data Engineer and an aspiring Data Scientist.
 
-<br/>
 
 <a href="https://linkedin.com/in/hassiahk/">
   <img align="left" alt="Haswanth's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
@@ -16,7 +15,7 @@ I am currently working as a Big Data Engineer and an aspiring Data Scientist.
   <img align="left" alt="Haswanth's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 
-
+<br/>
 <br/>
 
 - 🔭 I’m currently working on Reproducing ML/DL Papers.
