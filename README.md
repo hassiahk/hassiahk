@@ -18,6 +18,8 @@ I am currently working as a Big Data Engineer and an aspiring Data Scientist.
 <br/>
 <br/>
 
+#### Few things about me:
+
 - 🔭 I’m currently working on Reproducing ML/DL Papers.
 - 🌱 I’m currently learning about NLP and Computer Vision.
 - 👯 I’m looking to collaborate on Deep Learning Projects. (Frameworks: PyTorch and TensorFlow)
