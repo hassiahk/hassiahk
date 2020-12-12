@@ -6,13 +6,10 @@ I am currently working as a Big Data Engineer and an aspiring Data Scientist.
 
 
 <a href="https://linkedin.com/in/hassiahk/">
-  <img align="left" alt="Haswanth's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="Haswanth's Linkdein" src="https://img.icons8.com/fluent/48/4a90e2/linkedin.png" />
 </a>
 <a href="https://twitter.com/hassiahk">
-  <img align="left" alt="Haswanth's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<a href="https://github.com/hassiahk">
-  <img align="left" alt="Haswanth's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+  <img align="left" alt="Haswanth's Twitter" src="https://img.icons8.com/color/48/4a90e2/twitter-squared.png" />
 </a>
 
 <br/>
