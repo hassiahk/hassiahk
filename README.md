@@ -28,4 +28,4 @@ I am currently working as a Big Data Engineer and an aspiring Data Scientist.
 - ⚡ Fun fact: I watch anime as rigorous as I code.
 
 
-[![Haswanth's github stats](https://github-readme-stats.vercel.app/api?username=hassiahk&hide=stars)](https://github.com/anuraghazra/github-readme-stats)
+[![Haswanth's github stats](https://github-readme-stats.vercel.app/api?username=hassiahk&hide=stars&show_icons=true&count_private=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
