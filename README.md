@@ -16,16 +16,14 @@ I am currently working as a Big Data Engineer and an aspiring Data Scientist.
 </a>
 
 <br/>
-<br/>
 
 #### Few things about me:
-
 - 🔭 I’m currently working on Reproducing ML/DL Papers.
 - 🌱 I’m currently learning about NLP and Computer Vision.
-- 👯 I’m looking to collaborate on Deep Learning Projects. (Frameworks: PyTorch and TensorFlow)
+- 👯 I’m looking to collaborate on Deep Learning Projects.
 - 🤔 I’m looking for help with NLU and NLG.
 - 💬 Ask me about Python and ML. I am more than happy to help anytime. :)
-- 📫 How to reach me: DM me on [LinkedIn](https://www.linkedin.com/in/hassiahk/) or [Twitter](https://twitter.com/hassiahk). I am mostly active, feel free to reach out to me.
+- 📫 How to reach me: DM me on [LinkedIn](https://www.linkedin.com/in/hassiahk/) or [Twitter](https://twitter.com/hassiahk). I am mostly active, so feel free to reach out to me.
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I watch anime as rigorous as I code.
 
